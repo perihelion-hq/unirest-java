@@ -1,0 +1,14 @@
+{
+  "required_checks": [
+    {
+      "command": [
+        "mvn",
+        "-B",
+        "test"
+      ],
+      "name": ".:mvn:test",
+      "timeout_seconds": 1200
+    }
+  ],
+  "schema_version": "roster-repository-validation-plan-v1"
+}
