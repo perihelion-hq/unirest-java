@@ -1,0 +1,1 @@
+#0 2026-10-17 .github/ISSUE_TEMPLATE/feature_request.md contains only generic feature-request prompts, with no Java API, dependency, or build-command claims.                                                                                                                                                                  
